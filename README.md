@@ -2,7 +2,7 @@
 
 An aspiring **Cloud Solution Architect** with a focus on:
 
-☁️ **Modern Application Development** and modernising existing infrastructure through **data centre-to-cloud migrations**  
+☁️ **Modern Application Development** and modernising existing infrastructure through **data centre-to-cloud migrations**    
 🔧 **Infrastructure-as-Code (IaC)** using Terraform and native cloud tooling  
 ⚙️ **DevOps & CI/CD** pipelines using GitHub Actions and Azure DevOps  
 🤖 **AI Integrations** across modern cloud ecosystems  
