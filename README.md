@@ -10,15 +10,15 @@ An aspiring **Cloud Solution Architect** with a focus on:
 ---
 
 In my current role, I support enterprise organisations in modernising legacy systems -  
-driving **cloud-first transformation** through **impact-driven practices**.
+driving **cloud-first/hybrid cloud transformation** through **impact-driven practices**.
 
 Outside of work, I design and develop **modern cloud-native applications**.  
-I’m especially passionate about building **scalable, secure, and intelligent** systems that bridge business needs with innovative tech.
+I’m especially passionate about building **well architected, scalable, secure, and intelligent** solutions that bridge business value with innovative tech.
 
 ---
 
 🌍 From Denmark but a Global citizen at heart, & tech builder by choice.  
-🐾 Often found coding with a dog (or two) nearby.
+🐾 Often found exploring & learning tech with a dog (or two) nearby.
 
 ---
 
