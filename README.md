@@ -37,7 +37,6 @@ I’m especially passionate about building **well architected, scalable, secure,
 
 - **JavaScript** - for full-stack and front-end development
 - **React** - for building dynamic, component-based user interfaces 
-- **C#** - for .NET App & AI  
 - **Python** - for AI integrations, automation, and backend workflows  
 - **Terraform** - for declarative infrastructure and operational excellence  
 - **PowerShell** - for scripting, automation, and hybrid cloud management
